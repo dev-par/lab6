@@ -1,5 +1,7 @@
 """
-Devan Parekh
+Sebastian repo: https://github.com/dev-par/lab6
+Devan repo: https://github.com/CakeCrusher/lab_6
+Name: Devan Parekh
 """
 
 
